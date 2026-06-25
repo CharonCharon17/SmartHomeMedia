@@ -1,0 +1,10 @@
+    图片资源                     x坐标                y坐标
+picture/background.bmp            0                    0
+picture/bar.bmp                   0                    0
+
+picture/key_off.bmp               10                   50       同一行连续显示12个琴键
+
+
+picture/logo.bmp                  230                 350
+picture/volume.bmp                0                   420
+picture/exit.bmp                  740                 10

@@ -1,0 +1,9 @@
+*.o
+*.exe
+shm
+*.mp3
+*.avi
+*.bmp
+*.mp4
+*.jpg
+*.png
