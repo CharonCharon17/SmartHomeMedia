@@ -21,6 +21,3 @@ make clean && make
 ./shm
 EOF
 
-git add README.md
-git commit -m "docs: 添加 README"
-git push
